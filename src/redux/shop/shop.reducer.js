@@ -3,7 +3,7 @@ import ShopActionType from './shop.type';
 
 const INITIAL_STATE ={
     collections:null,
-    isFectching:fasle,
+    isFectching:false,
     errorMessage:undefined
 };
 
